@@ -1,0 +1,24 @@
+p {
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Sergoe UI', sans-serif;
+    color: #AA2222;
+}
+.ssss {
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Sergoe UI', sans-serif;
+    color: blue;
+}
+
+.Bleu p, h1 {
+    font-size: 24px;
+    font-family: 'Sergoe UI', sans-serif;
+}
+
+.Bleu p{
+    color:rgb(101, 101, 233);
+}
+.Bleu h1{
+    color:rgb(31, 31, 184);
+}
